@@ -1,7 +1,7 @@
-# Base JS SDK DEMO
-## node: 16+
-1. npm install -g yarn
-2. yarn
-3. yarn run start
+# Using Devbox
 
-Now, you can see the output URL in the console, please click, then open the page, and copy the URL
+1. Down load devbox, https://www.jetify.com/devbox/docs/installing_devbox/
+2. `devbox install`
+3. `devbox shell`
+4. `npm install`
+5. `yarn run start`
